@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Secrets & Environment variables
+.env
+
+# Vector database storage
+chroma_db/
+
+# Evaluation outputs
+eval_results.csv
+
+# Stray files
+os
+.DS_Store
